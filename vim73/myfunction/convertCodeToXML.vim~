@@ -1,0 +1,5 @@
+function CodetoXML()
+	%s/^ *new KeyValuePair<string, string>(/<map Name=/
+	%s/, *"/>/
+	%s/").*$/<\/map>/
+endfunction

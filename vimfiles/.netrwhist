@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='D:/mmProject/startUp/data/SearchGold/deploy/builds/data/latest/mmfeeds/manifest_TestYouTube/YouTube_API_Channel'
+let g:netrw_dirhist_2='D:/mmProject/startUp/data/SearchGold/deploy/builds/data/latest/mmfeeds/manifest_TestYouTube/YouTube-P0of9'
