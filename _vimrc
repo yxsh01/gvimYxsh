@@ -6,9 +6,11 @@ behave mswin
 set number
 set fileencodings=utf-8,gbk,unicode
 set ruler
+set tabstop=4
 autocmd FileType python set tabstop=4
 autocmd FileType cpp set tabstop=4
 autocmd FileType cs set tabstop=4
+set shiftwidth=4
 set encoding=utf-8
 "set smartindent
 set showmatch
