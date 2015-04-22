@@ -1,6 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='D:/mmProject/startUp/data/SearchGold/deploy/builds/data/latest/mmfeeds/manifest_TestYouTube/YouTube_API_Channel'
 let g:netrw_dirhist_2='D:/mmProject/startUp/data/SearchGold/deploy/builds/data/latest/mmfeeds/manifest_TestYouTube/YouTube-P0of9'
 let g:netrw_dirhist_3='D:/mmProject/startUp/data/SearchGold/deploy/builds/data/latest/MMCB/MMRV2/ProdCo3C/video'
-let g:netrw_dirhist_4='D:/Branchs/coreux_working/target/distrib/debug/amd64/app/Serp/app_data/Answers/Services/Packages/Multimedia/Content/Script/Blue'
